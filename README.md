@@ -69,13 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# 🌐 Node.js Project with Cloudflared Tunneling
+# Node.js Project with Cloudflared Tunneling
 
 A robust Node.js application that supports secure local development via Cloudflared tunneling. This repository is designed with modularity, security, and maintainability in mind, making it an ideal base for web APIs, backend services, or microservices.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Modular Node.js architecture
 - Environment-based configuration support
@@ -85,7 +85,7 @@ A robust Node.js application that supports secure local development via Cloudfla
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 project-root/
 ├── config/ # Application configuration (excluded from repo)
@@ -101,7 +101,7 @@ project-root/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Ensure the following are installed:
 
@@ -111,7 +111,7 @@ Ensure the following are installed:
 
 ---
 
-## 📦 Installation
+## Installation
 
 
 # Clone the repository
